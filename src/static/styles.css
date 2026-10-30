@@ -142,3 +142,25 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.activity-card p:nth-of-type(3) {
+  padding: 6px 10px;
+  border-left: 3px solid #3949ab;
+  border-radius: 3px;
+  background-color: #eef0ff;
+}
+
+.activity-card p:nth-of-type(3) strong {
+  color: #1a237e;
+}
+
+.activity-card p:nth-of-type(4) {
+  padding: 6px 10px;
+  border-left: 3px solid #00897b;
+  border-radius: 3px;
+  background-color: #e0f2f1;
+}
+
+.activity-card p:nth-of-type(4) strong {
+  color: #00695c;
+}
